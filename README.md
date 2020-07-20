@@ -1,6 +1,6 @@
 # Agnostics
 
-## exercise
+## Exercise
 
 Il candidato è invitato a scegliere il linguaggio che preferisce per lo svolgimento dei seguenti esercizi. Scelte che valutiamo in via preferenziale sono Javascript e Ruby.
 
@@ -24,13 +24,13 @@ Esempio: per l’array [1,[4,5],[2,[3,4]]] il risultato è [1,4,5,2,3,4].
   
    - lib/smooth.rb
 
-## clone repository
+## Clone repository
 
 `$ git clone git@github.com:misterwolf/agnostics.git`
 
-## initialize project
+## Initialize project
 
-([install rvm first](https://rvm.io/rvm/install), better)
+[install rvm first](https://rvm.io/rvm/install) with ruby-2.5.7
 
 `$ gem install bundle`
 
