@@ -26,7 +26,7 @@ Esempio: per l’array [1,[4,5],[2,[3,4]]] il risultato è [1,4,5,2,3,4].
 
 ## clone repository
 
-git clone git@github.com:misterwolf/agnostics.git
+`$ git clone git@github.com:misterwolf/agnostics.git`
 
 ## initialize project
 
